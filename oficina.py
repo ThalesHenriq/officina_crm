@@ -12,7 +12,7 @@ if "username" not in st.session_state:
 # Usuários cadastrados (você pode adicionar mais aqui!)
 USUARIOS = {
     "admin": "1234",
-    "mecanico": "oficina2025"
+    "Claudinei": "oficina2025"
 }
 
 if not st.session_state.logged_in:
